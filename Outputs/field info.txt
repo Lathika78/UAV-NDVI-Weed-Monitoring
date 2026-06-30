@@ -1,0 +1,10 @@
+FIELD SUMMARY
+------------------------------
+Images analyzed: 434
+Average weed percentage: 18.28%
+Maximum weed percentage: 56.89%
+Minimum weed percentage: 0.27%
+
+Low severity images (<5%): 61
+Moderate severity images (5-15%): 167
+High severity images (>15%): 206
