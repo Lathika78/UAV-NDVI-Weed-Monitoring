@@ -74,7 +74,7 @@ To verify the correctness of the weed percentage calculation, three sample mask 
 |-----------------|----------------:|------------------:|--------|
 | Mask test 1 | 0.01% | 0.01% | ✅ Passed |
 | Mask test 2 | 0.03% | 0.03% | ✅ Passed |
-| Mask test 3 | 0.06% | 0.06% | Matched Expected | ✅ Passed |
+| Mask test 3 | 0.06% | 0.06% |✅ Passed |
 
 The validation results confirm that the weed percentage calculation accurately reflects the weed pixels present in the mask images.
 
